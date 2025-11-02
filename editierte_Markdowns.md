@@ -36,7 +36,7 @@ extraction:
 
 [fn:1] Davon noch nicht zur Nutzung bereite Entwicklungskosten in Höhe von **0 [TEUR]**.
 
----
+<!-- --- -->
 
 [PAGE:74]
 ## Entwicklung des Anlagevermögens 2017
@@ -61,16 +61,16 @@ extraction:
 
 [fn:2] Davon noch nicht zur Nutzung bereite Entwicklungskosten in Höhe von **2 241 [TEUR]**.
 
----
+<!-- --- -->
 
 ## 6. Anteile an at Equity bewerteten Unternehmen
 
 Zum **31. Dezember 2018** hält die NEXUS AG folgende indirekte, unwesentliche Beteiligung, die **at Equity konsolidiert** wird:
 
 | Assoziierte Unternehmen | Anteil [%] | Ort | Kurzfristige Vermögenswerte [TEUR] | Kurzfristige Schulden [TEUR] | Reinvermögen [TEUR] | Erlöse [TEUR] | Gewinn [TEUR] | Buchwert der Beteiligung [TEUR] |
-|--------------------------|------------:|------|----------------------------------:|-----------------------------:|--------------------:|--------------:|--------------:|--------------------------------:|
+|--------------------------|-----------:|------|----------------------------------:|-----------------------------:|--------------------:|--------------:|--------------:|--------------------------------:|
 | G.I.T.S. Gesundheitswesen IT-Service GmbH | 49.00 | Fürstenfeldbruck | 43 | -3 | 40 | 68 | 0 | 26 |
-| Abgang Beteiligungsbuchwert Palladium-med GmbH, Berlin | — | — | — | — | — | — | — | -5 |
+| Abgang Beteiligungsbuchwert Palladium-med GmbH Berlin | — | — | — | — | — | — | — | -5 |
 | **Summe / Vorjahr** | — | — | — | — | — | **83 (2017)** | **-3 (2017)** | **31 (2017)** |
 
 ---
@@ -78,7 +78,6 @@ Zum **31. Dezember 2018** hält die NEXUS AG folgende indirekte, unwesentliche B
 ### Hinweise
 - Alle Werte in `[TEUR]` (Tausend Euro).  
 - Dezimaltrennzeichen: `.`  
-- Silbentrennungen aus PDF bereinigt (z. B. „Unter nehmens- zusammen-schlüssen“ → „Unternehmenszusammenschlüssen“).  
-- Tabellen GFM-konform, keine Zeilenumbrüche in Zellen.  
-- Fußnoten (1) und (2) integriert und vereinheitlicht.
-
+- Silbentrennungen bereinigt.  
+- Tabellen GFM-konform (keine Zeilenumbrüche in Zellen).  
+- Fußnoten `[fn:1]` und `[fn:2]` sind integriert.  
